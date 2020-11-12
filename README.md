@@ -1,2 +1,2 @@
 # LearnGit
-just write down how I learn git
+write down what I learn on https://www.liaoxuefeng.com/wiki/896043488029600
